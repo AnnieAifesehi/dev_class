@@ -4,6 +4,7 @@ require_once ("php/component.php");
 require_once ("php/operation.php");
 ?>
 
+<title>
 <!doctype html>
 <html lang="en">
 <head>
